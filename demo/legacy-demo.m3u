@@ -1,0 +1,33 @@
+#EXTM3U x-tvg-url="https://volkan777587.github.io/demo/epg.xml"
+#EXTINF:-1 tvg-id="national1" tvg-name="Demo National 1 HD" tvg-logo="https://volkan777587.github.io/demo/logo/national1.png" group-title="Demo National",Demo National 1 HD
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="national2" tvg-name="Demo National 2" tvg-logo="https://volkan777587.github.io/demo/logo/national2.png" group-title="Demo National",Demo National 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="national3" tvg-name="Demo National 3" tvg-logo="https://volkan777587.github.io/demo/logo/national3.png" group-title="Demo National",Demo National 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="news24" tvg-name="Demo News 24" tvg-logo="https://volkan777587.github.io/demo/logo/news24.png" group-title="Demo News",Demo News 24
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="newshd" tvg-name="Demo News HD" tvg-logo="https://volkan777587.github.io/demo/logo/newshd.png" group-title="Demo News",Demo News HD
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-id="sports1" tvg-name="Demo Sports 1 HD" tvg-logo="https://volkan777587.github.io/demo/logo/sports1.png" group-title="Demo Sports",Demo Sports 1 HD
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="sports2" tvg-name="Demo Sports 2" tvg-logo="https://volkan777587.github.io/demo/logo/sports2.png" group-title="Demo Sports" tvg-added="1792742400",Demo Sports 2
+https://test-streams.mux.dev/tos_ismc/main.m3u8
+#EXTINF:-1 tvg-id="docs" tvg-name="Demo Documentary" tvg-logo="https://volkan777587.github.io/demo/logo/docs.png" group-title="Demo Documentary",Demo Documentary
+https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8
+#EXTINF:-1 tvg-id="cinema4k" tvg-name="Demo Cinema 4K" tvg-logo="https://volkan777587.github.io/demo/logo/cinema4k.png" group-title="Demo Documentary" tvg-added="1792735200",Demo Cinema 4K
+https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
+#EXTINF:-1 tvg-name="Demo Movie: Steel City" tvg-logo="https://volkan777587.github.io/demo/poster/movie1.png" group-title="Demo Movies" tvg-added="1792756800",Demo Movie: Steel City
+https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4
+#EXTINF:-1 tvg-name="Demo Movie: Dream Machine" tvg-logo="https://volkan777587.github.io/demo/poster/movie2.png" group-title="Demo Movies" tvg-added="1792746000",Demo Movie: Dream Machine
+https://archive.org/download/ElephantsDream/ed_hd.mp4
+#EXTINF:-1 tvg-name="Demo Movie: Dragon Girl" tvg-logo="https://volkan777587.github.io/demo/poster/movie3.png" group-title="Demo Movies" tvg-added="1792738800",Demo Movie: Dragon Girl
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 tvg-name="Demo Movie: Short Trailer" tvg-logo="https://volkan777587.github.io/demo/poster/movie4.png" group-title="Demo Movies" tvg-added="1792731600",Demo Movie: Short Trailer
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
+#EXTINF:-1 tvg-name="Demo Series S01 E01" tvg-logo="https://volkan777587.github.io/demo/poster/s1e1.png" group-title="Demo Series",Demo Series S01 E01
+https://download.blender.org/peach/trailer/trailer_720p.mov
+#EXTINF:-1 tvg-name="Demo Series S01 E02" tvg-logo="https://volkan777587.github.io/demo/poster/s1e2.png" group-title="Demo Series" tvg-added="1792749600",Demo Series S01 E02
+https://test-videos.co.uk/vids/jellyfish/mp4/h264/720/Jellyfish_720_10s_5MB.mp4
+#EXTINF:-1 tvg-name="Demo Series S01 E03" tvg-logo="https://volkan777587.github.io/demo/poster/s1e3.png" group-title="Demo Series" tvg-added="1792753200",Demo Series S01 E03
+https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_5MB.mp4
